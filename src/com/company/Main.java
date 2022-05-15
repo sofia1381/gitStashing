@@ -10,5 +10,10 @@ public class Main {
         Audii.engineCapac="v12";
         Audii.headlight="red";
         Audii.regNo="BMW";
+
+        // lets write our oen code
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHZ");
+        System.out.println("Turn on the Air Conditioner");
     }
 }
